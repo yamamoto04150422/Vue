@@ -10,6 +10,7 @@
   </main>
 </template>
 
+
 <style>
 main {
   border: blue 1px solid;
