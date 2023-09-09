@@ -9,8 +9,7 @@
     <RouterView/>
   </main>
 </template>
-
-
+<!-- github検証 -->
 <style>
 main {
   border: blue 1px solid;
