@@ -13,7 +13,7 @@
 <style>
 main {
   border: blue 1px solid;
-  padding: 50px;
+  padding: 20px;
 }
 #breadcrumbs ul li {
   display: inline;
